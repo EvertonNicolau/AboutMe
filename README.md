@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evertonicolaudev
-- 👀 I’m interested in 
+- 👀 I’m interested in humans science 
 - 🌱 I’m currently learning C# e .Net Core
 - 📫 How to reach me ...
 - 😄 Pronouns: He and Him
